@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-puce-74.vercel.app](https://portfolio-ten-puce-74.vercel.app)
+- 👨‍💻 All of my projects are available at [https://devawaab.vercel.app/](https://devawaab.vercel.app/)
 
 - 💬 Ask me about **MERN, Python**
 
